@@ -122,7 +122,7 @@ The configuration file for DCC-EX Command Station
 //
 // WIFI_CHANNEL: The default channel is set to "1". If you need to use an
 // alternate channel (we recommend using only 1,6, or 11) you may change it here.
-#define WIFI_CHANNEL 1
+#define WIFI_CHANNEL 6
 //
 // WIFI_FORCE_AP: If you'd like to specify your own WIFI_SSID in AP mode, set this
 // true. Otherwise it is assumed that you'd like to connect to an existing network
